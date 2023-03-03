@@ -1,0 +1,4 @@
+Resolusi Agus SBN
+- Konsisten belajar ilmu baru 
+- Perdalam Laravel
+- Belajar Node.JS
